@@ -1,8 +1,10 @@
-use kcptun default settings.
+Use kcptun default settings.
+
+Remember `chmod +x xxx.sh`
 
 ----------
 
-# <img src="logo.png" alt="kcptun" height="60px" /> 
+# <img src="https://github.com/xtaci/kcptun/raw/master/logo.png" alt="kcptun" height="60px" /> 
 [![GoDoc][1]][2] [![Release][13]][14] [![Powered][17]][18] [![Build Status][3]][4] [![Go Report Card][5]][6] [![Downloads][15]][16] [![Gitter][19]][20]
 [1]: https://godoc.org/github.com/xtaci/kcptun?status.svg
 [2]: https://godoc.org/github.com/xtaci/kcptun
@@ -27,8 +29,8 @@ use kcptun default settings.
 
 ***[kcp-go](https://github.com/xtaci/kcp-go)协议测试小工具 :zap: [官方下载地址](https://github.com/xtaci/kcptun/releases/latest):zap:***
 
-![kcptun](kcptun.png)
-[English Readme](README.en.md)
+![kcptun](https://github.com/xtaci/kcptun/raw/master/kcptun.png)
+[English Readme](https://github.com/xtaci/kcptun/raw/master/README.en.md)
 ### *快速设定* :lollipop:
 ```
 服务器: ./server_linux_amd64 -t "127.0.0.1:8388" -l ":554" -mode fast2  // 转发到服务器的本地8388端口
@@ -45,8 +47,8 @@ use kcptun default settings.
 ### *使用方法* :lollipop:
 在Mac OS X El Capitan下的帮助输出: 
 
-![client](client.png)
-![server](server.png)
+![client](https://github.com/xtaci/kcptun/raw/master/client.png)
+![server](https://github.com/xtaci/kcptun/raw/master/server.png)
 
 ### *推荐参数* :lollipop: 
 ```
