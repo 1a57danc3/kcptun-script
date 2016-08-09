@@ -1,6 +1,6 @@
 Use kcptun default settings.
 
-Remember `chmod +x xxx.sh`
+Remember `chmod +x *.sh`
 
 ----------
 
