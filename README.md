@@ -119,7 +119,7 @@ DSCP差分服务代码点（Differentiated Services Code Point），IETF于1998�
 ### *前向纠错* :lollipop: 
 前向纠错采用Reed Solomon纠删码, 它的基本原理如下： 给定n个数据块d1, d2,…, dn，n和一个正整数m， RS根据n个数据块生成m个校验块， c1, c2,…, cm。 对于任意的n和m， 从n个原始数据块和m 个校验块中任取n块就能解码出原始数据， 即RS最多容忍m个数据块或者校验块同时丢失。
 
-![reed-solomon](rs.png)
+![reed-solomon](https://github.com/xtaci/kcptun/raw/master/rs.png)
 
 通过参数```-datashard 10 -parityshard 3``` 在两端同时设定。
 
@@ -192,7 +192,7 @@ type Snmp struct {
 对免责声明的解释、修改及更新权均属于作者本人所有。
 
 ### *捐赠* :dollar:
-![donate](donate.png)          
+![donate](https://github.com/xtaci/kcptun/raw/master/donate.png)          
 
 对该项目的捐款将用于[gonet/2](http://gonet2.github.io/)游戏服务器框架的研发。     
 
