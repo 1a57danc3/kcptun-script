@@ -2,6 +2,10 @@ Use kcptun default settings.
 
 Remember `chmod +x *.sh`
 
+Aliyun user please note:
+Virtual Private Cloud use `0.0.0.0` as bind ip.
+
+
 ----------
 
 # <img src="https://github.com/xtaci/kcptun/raw/master/logo.png" alt="kcptun" height="60px" /> 
