@@ -1,5 +1,5 @@
 #!/bin/bash
 cd /root/kcptun/
-sh stop.sh
+sh server-stop.sh
 echo "Restarting Kcptun..."
-sh start.sh
+sh server-start.sh
